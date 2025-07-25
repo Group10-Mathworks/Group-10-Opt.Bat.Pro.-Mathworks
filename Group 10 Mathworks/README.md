@@ -34,6 +34,6 @@ These can be saved to the media/ folder for reporting or presentation.
 | Student Name   | Contribution                                                |
 |----------------|-------------------------------------------------------------|
 | Elan Boganim   | Developed DC and User simulation simulation scripts, worked on the majority of the slide show |
-| Jordan Kapner  | Developed the simulink code and added detail to the slide show    |
+| Jordan Kapner  | Contributed to the slide show and worked on debugging   |
 | Denise Estana  | Developed the AC simulation script added detail to the slide show |
 | Jonathan Herrera-Aguayo | Worked on debugging code and helped with the AC simulation script |
